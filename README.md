@@ -1,0 +1,2 @@
+# Credit_Cardholders_Segmentations_for_Marketing_Stategies
+Develop a customer segmentation to define marketing strategy
